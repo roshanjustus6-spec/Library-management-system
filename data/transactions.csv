@@ -1,0 +1,4 @@
+transaction_id,book_id,member_id,staff_id,transaction_type,timestamp
+T0001,B002,M002,S001,BORROW,2026-06-18 15:59:34
+T0002,B003,M003,S001,BORROW,2026-06-19 10:53:26
+T0003,B002,M002,S001,RETURN,2026-06-19 10:54:53

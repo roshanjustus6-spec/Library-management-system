@@ -1,0 +1,3 @@
+book_id,title,author,genre,year,is_available
+B002,Hurry,John,Humanity,2006,True
+B003,Python Programming,John Smith,Technology,2023,False
