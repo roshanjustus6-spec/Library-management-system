@@ -59,7 +59,7 @@ library_management_system/
 **1. Clone or download the repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/library-management-system.git
+git clone https://github.com/roshanjustus6-spec/library-management-system.git
 cd library-management-system
 ```
 
