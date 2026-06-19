@@ -444,17 +444,7 @@ class Library:
         }
 
     def reset_all_data(self) -> None:
-        """
-        Permanently wipe every book, member, librarian, and
-        transaction record, both in memory and on disk, then
-        re-seed a default librarian so the system is immediately
-        usable again without needing a restart.
-
-        This is destructive and cannot be undone. If a CSV file is
-        locked by another program (a common issue on Windows when
-        the file is open in Excel), that one file is skipped with a
-        warning instead of crashing the whole reset.
-        """
+        
         self.books = {}
         self.members = {}
         self.librarians = {}
