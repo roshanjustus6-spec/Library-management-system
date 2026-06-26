@@ -2,8 +2,8 @@
 
 **Module:** B100 Introduction to Computer Programming with Python
 **Institution:** Gisma University of Applied Sciences
-**Author:** [Your Full Name]
-**Student ID:** [Your Student ID]
+**Author:** Roshan Justus
+**Student ID:** GH1049830
 
 ---
 
